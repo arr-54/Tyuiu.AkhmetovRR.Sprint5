@@ -11,10 +11,5 @@ namespace Tyuiu.FabritsiusAO.Sprint5.Task0.V11.Lib
             File.WriteAllText(path,Convert.ToString(y));
             return path;
         }
-        public double Calculate(int x)
-        {
-            double y = Math.Round((4 - Math.Pow(x, 3)) / Math.Pow(x, 2),3);
-            return y;
-        }
     }
 }

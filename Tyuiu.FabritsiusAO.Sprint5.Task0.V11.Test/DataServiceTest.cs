@@ -14,14 +14,5 @@ namespace Tyuiu.FabritsiusAO.Sprint5.Task0.V11.Test
             bool FileExists = fileinfo.Exists;
             Assert.IsTrue(FileExists);
         }
-        [TestMethod]
-        public void CheckCalculateValid()
-        {
-            DataService ds = new();
-            int x = 1;
-            double res = ds.Calculate(x);
-            double wait = 3;
-            Assert.AreEqual(wait, res);
-        }
     }
 }
