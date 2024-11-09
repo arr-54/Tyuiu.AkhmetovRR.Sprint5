@@ -27,9 +27,8 @@ class Program
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
         Console.WriteLine("***************************************************************************");
         string res = ds.SaveToFileTextData(x);
-        double resc = ds.Calculate(x);
         Console.WriteLine("Файл: " + res);
         Console.WriteLine("Создан!");
-        Console.WriteLine("Ответ: " + resc);
+        Console.ReadLine();
     }
 }
