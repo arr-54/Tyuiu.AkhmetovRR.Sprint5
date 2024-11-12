@@ -7,6 +7,7 @@ namespace Tyuiu.FabritsiusAO.Sprint5.Task4.V15.Lib
         {
             DataService ds = new();
             string str = File.ReadAllText(path);
+            str = str.Replace('.', ',');
             double x = Convert.ToDouble(str);
             double F = ds.Calculate(x);
             return F;
