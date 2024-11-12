@@ -18,7 +18,7 @@ namespace Tyuiu.FabritsiusAO.Sprint5.Task3.V5.Lib
         }
         public double Calculate(int x)
         {
-            double F = 2 * Math.Pow(x, 3) + (1/2) * Math.Pow(x,2) - 3.5 * x + 2;
+            double F = 2 * Math.Pow(x, 3) + 0.5 * Math.Pow(x,2) - 3.5 * x + 2;
             F = Math.Round(F, 3);
             return F;
         }

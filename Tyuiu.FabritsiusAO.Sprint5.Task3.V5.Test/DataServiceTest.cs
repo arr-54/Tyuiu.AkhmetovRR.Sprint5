@@ -8,9 +8,9 @@ namespace Tyuiu.FabritsiusAO.Sprint5.Task3.V5.Test
         public void CheckedCalculateValid()
         {
             DataService ds = new();
-            int x = 0;
+            int x = 2;
             double res = ds.Calculate(x);
-            double wait = 2;
+            double wait = 13;
             Assert.AreEqual(wait, res);
         }
     }
