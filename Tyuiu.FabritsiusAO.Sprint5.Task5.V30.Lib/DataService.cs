@@ -6,7 +6,7 @@ namespace Tyuiu.FabritsiusAO.Sprint5.Task5.V30.Lib
     {
         public double LoadFromDataFile(string path)
         {
-            double res = 20;
+            double res = 2;
             using (StreamReader R = new(path))
             {
                 string L = R.ReadLine();
@@ -14,7 +14,7 @@ namespace Tyuiu.FabritsiusAO.Sprint5.Task5.V30.Lib
                 L = L.Replace(' ', '\n');
                 while ((L = R.ReadLine()) != null)
                 {
-                    if (res < Convert.ToDouble(L))
+                    if (res < Convert.ToDouble(L) && Convert.ToDouble(L) % 1 == 0);
                     {
                         res = Convert.ToDouble(L);
                     }
