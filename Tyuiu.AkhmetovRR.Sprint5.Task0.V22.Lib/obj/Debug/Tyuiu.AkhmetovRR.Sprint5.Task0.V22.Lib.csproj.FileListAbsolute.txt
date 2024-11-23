@@ -1,0 +1,12 @@
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprin5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\bin\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.dll
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprin5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\bin\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.pdb
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprin5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.csproj.AssemblyReference.cache
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprin5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.csproj.CoreCompileInputs.cache
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprin5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.dll
+C:\Users\COMP GOD\source\repos\Tyuiu.AkhmetovRR.Sprin5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.pdb
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\bin\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.dll
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\bin\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.pdb
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.csproj.AssemblyReference.cache
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.csproj.CoreCompileInputs.cache
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.dll
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task0.V22.Lib.pdb

@@ -1,0 +1,6 @@
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib\bin\Debug\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib.dll
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib\bin\Debug\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib.pdb
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib.csproj.AssemblyReference.cache
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib.csproj.CoreCompileInputs.cache
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib.dll
+D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task3.V13.Lib.pdb
