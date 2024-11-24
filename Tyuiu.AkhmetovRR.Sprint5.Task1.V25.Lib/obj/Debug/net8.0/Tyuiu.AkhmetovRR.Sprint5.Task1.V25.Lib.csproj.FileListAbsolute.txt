@@ -12,3 +12,4 @@ C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint
 C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib\obj\Debug\net8.0\refint\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib.dll
 C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib.pdb
 C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib\obj\Debug\net8.0\ref\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib.sourcelink.json

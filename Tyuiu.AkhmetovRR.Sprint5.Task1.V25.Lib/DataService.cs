@@ -12,11 +12,9 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib
             // Создаем текстовый файл
             using (StreamWriter writer = new StreamWriter(filePath))
             {
-                writer.WriteLine("x\tF(x)");
-
+                
                 // Выводим таблицу на консоль
-                Console.WriteLine("x\tF(x)");
-
+                
                 // Проходим по диапазону значений
                 for (int x = startValue; x <= stopValue; x++)
                 {
@@ -24,8 +22,8 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib
 
                     fx = Math.Round(fx, 2);
 
-                    writer.WriteLine($"{x}\t{fx.ToString("F2", CultureInfo.InvariantCulture)}");
-                    Console.WriteLine($"{x}\t{fx.ToString("F2", CultureInfo.InvariantCulture)}");
+                    writer.WriteLine($"{fx.ToString("F2", CultureInfo.InvariantCulture)}");
+                    Console.WriteLine($"{fx.ToString("F2", CultureInfo.InvariantCulture)}");
                 }
             }
 
