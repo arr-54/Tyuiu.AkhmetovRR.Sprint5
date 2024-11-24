@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using System.Numerics;
 using tyuiu.cources.programming.interfaces.Sprint5;
 namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib
 {
@@ -6,33 +7,74 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib
     {
         public double LoadFromDataFile(string path)
         {
-            double k = 0;
-            if (File.Exists(path))
+            List<double> data = ReadFile(path);
+            int? max3 = FindLoad(data);
+            if (max3 != null)
             {
-                double res = 1;
-                using (StreamReader reader = new StreamReader(path))
-                {
-                    string line;
-                    while ((line = reader.ReadLine()) != null)
-                    {
-                        // Парсинг строки с учетом культуры
-                        double x = double.Parse(line, CultureInfo.InvariantCulture);
-                        if (x % 3 == 0 && x > k && (Convert.ToInt32(x) == Convert.ToDouble(x)))
-                        {
-                            k = x;
-                        }
-                    }
-                }
-                for (int i = 1; i <= k; i++)
-                    res *= i;
-
-                return Math.Round(res, 3);
+                return max3.Value;
             }
             else
             {
-                Console.WriteLine("Ошибка");
-                return 1;
+                throw new Exception("в файле не найдено целых чисел");
             }
+        }
+        public List<double> ReadFile(string path)
+        {
+            var numbers = new List<double>();
+            try
+            {
+                var lines = File.ReadAllLines(path);
+                foreach (var line in lines)
+                {
+                    string tline = line.Trim();
+                    if (!string.IsNullOrEmpty(tline))
+                    {
+                        if (double.TryParse(tline, out double number))
+                        {
+                            number = Math.Round(number, 3);
+                            numbers.Add(number);
+                        }
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.ToString());
+            }
+            return numbers;
+        }
+        public int? FindLoad(List<double> numbers)
+        {
+            int? num = null;
+            foreach (var number in numbers)
+            {
+                if (number % 1 == 0)
+                {
+                    int intnum = (int)number;
+                    if (number % 3 == 0)
+                    {
+                        if (num == null || intnum > num)
+                        {
+                            num = intnum;
+                        }
+                    }
+                }
+
+            }
+            return num;
+        }
+        public BigInteger CalculateFactorial(int number)
+        {
+            if (number < 0)
+            {
+                throw new ArgumentException("Ошибка");
+            }
+            BigInteger result = 1;
+            for (int i = 2; i <= number; i++) 
+            {
+                result *= i;
+            }
+            return result;
         }
     }
 }

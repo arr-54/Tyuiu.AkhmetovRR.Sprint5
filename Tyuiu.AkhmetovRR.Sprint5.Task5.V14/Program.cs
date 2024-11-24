@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib;
+using System.Numerics;
 namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14
 {
     class Program
@@ -31,8 +32,11 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14
             Console.WriteLine("********************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                   *");
             Console.WriteLine("********************************************************************************");
-            double res = ds.LoadFromDataFile(path);
-            Console.WriteLine(res);
+            double LoadNumber = ds.LoadFromDataFile(path);
+            int number = (int)LoadNumber;
+            BigInteger factorial = ds.CalculateFactorial(number);
+            Console.WriteLine(factorial);
+            Console.WriteLine(number);
             Console.ReadKey();
         }
     }
