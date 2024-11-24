@@ -36,7 +36,6 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14
             int number = (int)LoadNumber;
             BigInteger factorial = ds.CalculateFactorial(number);
             Console.WriteLine(number);
-            Console.WriteLine(factorial);
             Console.ReadKey();
         }
     }
