@@ -12,19 +12,24 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib
             // Создаем текстовый файл
             using (StreamWriter writer = new StreamWriter(filePath))
             {
-                
+
                 // Выводим таблицу на консоль
-                
+                string text = "";
                 // Проходим по диапазону значений
                 for (int x = startValue; x <= stopValue; x++)
                 {
                     double fx = CalculateFunction(x);
 
                     fx = Math.Round(fx, 2);
-
+                    if (fx % 1 == 0)
+                    {
+                        fx = Convert.ToInt32(fx);
+                    }
+                    text += fx.ToString() + "\n";
                     writer.WriteLine($"{fx.ToString("F2", CultureInfo.InvariantCulture)}");
-                    Console.WriteLine($"{fx.ToString("F2", CultureInfo.InvariantCulture)}");
                 }
+                text = text.Replace('.', ',');
+                Console.WriteLine(text);
             }
 
             return filePath;

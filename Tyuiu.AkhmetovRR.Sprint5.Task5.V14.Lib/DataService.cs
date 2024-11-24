@@ -23,23 +23,23 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib
             var numbers = new List<double>();
             try
             {
-                var lines = File.ReadAllLines(path);
-                foreach (var line in lines)
+                string fileContent = File.ReadAllText(path);
+                var elements = fileContent.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+                foreach (var element in elements)
                 {
-                    string tline = line.Trim();
-                    if (!string.IsNullOrEmpty(tline))
+                    string trimmedElement = element.Trim();
+
+                    if (!string.IsNullOrEmpty(trimmedElement) && double.TryParse(trimmedElement, out double number))
                     {
-                        if (double.TryParse(tline, out double number))
-                        {
-                            number = Math.Round(number, 3);
-                            numbers.Add(number);
-                        }
+                        number = Math.Round(number, 3); // Округляем до 3 знаков
+                        numbers.Add(number);
                     }
                 }
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.ToString());
+                Console.WriteLine("Ошибка чтения файла: " + e.Message);
             }
             return numbers;
         }
