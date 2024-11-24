@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MYArVioaQTg=",
+  "dgSpecHash": "bLoboYIbQsQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5 ()\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Test\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Test.csproj",
+  "projectFilePath": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Test\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\COMP GOD\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\COMP GOD\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

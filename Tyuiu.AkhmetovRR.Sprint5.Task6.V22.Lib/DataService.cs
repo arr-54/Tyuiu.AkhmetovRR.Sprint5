@@ -1,12 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿using tyuiu.cources.programming.interfaces.Sprint5;
 namespace Tyuiu.AkhmetovRR.Sprint5.Task6.V22.Lib
 {
-    public class DataService
+    public class DataService : ISprint5Task6V22
     {
+        public int LoadFromDataFile(string path)
+        {
+            string fileContent = File.ReadAllText(path);
+            int count = 0;
+            for (int i = 0; i < fileContent.Length - 1; i++)
+            {
+                if (fileContent[i] == 'м' && fileContent[i + 1] == 'м')
+                {
+                    count++;
+                }
+            }
+            return count;
+        }
     }
 }

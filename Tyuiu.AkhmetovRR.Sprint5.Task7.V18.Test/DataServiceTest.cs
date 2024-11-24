@@ -1,19 +1,21 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using System.IO;
-
+using Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib;
 namespace Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Test
 {
     [TestClass]
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void CheckedExistsFile()
         {
-            string path = @"C:\DataSprint5\InPutDataFileTask7V18.txt";
-            FileInfo FI = new(path);
-            bool FE = FI.Exists;
-            Assert.IsTrue(FE);
+            DataService ds = new DataService();
+            string path = @"C:\Users\?????\AppData\Local\Temp\OutPutDataFileTask7V18.txt";
+
+            FileInfo fileInfo = new FileInfo(path);
+            bool fileExists = fileInfo.Exists;
+            bool wait = true;
+
+            Assert.AreEqual(wait, fileExists);
+
         }
     }
 }

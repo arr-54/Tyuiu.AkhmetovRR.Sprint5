@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jsP9/rW4PSQ=",
+  "dgSpecHash": "K045yRxoy8A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5 ()\\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Test\\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Test.csproj",
+  "projectFilePath": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5\\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Test\\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\COMP GOD\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\COMP GOD\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿using tyuiu.cources.programming.interfaces.Sprint5;
 namespace Tyuiu.AkhmetovRR.Sprint5.Task4.V3.Lib
 {
-    public class DataService
+    public class DataService : ISprint5Task4V3
     {
+        public double LoadFromDataFile(string path)
+        {
+            string x = File.ReadAllText(path).Replace('.', ',');
+            double res = (((Math.Sin(Convert.ToDouble(x)) + 4) / Convert.ToDouble(x)) - (1.25 * Convert.ToDouble(x)));
+            res = Math.Round(res, 3);
+            return res;
+        }
     }
 }

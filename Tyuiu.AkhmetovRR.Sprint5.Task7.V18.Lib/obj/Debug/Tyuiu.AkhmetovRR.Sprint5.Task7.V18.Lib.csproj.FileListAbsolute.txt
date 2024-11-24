@@ -1,2 +1,0 @@
-D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib.csproj.AssemblyReference.cache
-D:\программирование C # 2024-2025\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\obj\Debug\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib.csproj.CoreCompileInputs.cache

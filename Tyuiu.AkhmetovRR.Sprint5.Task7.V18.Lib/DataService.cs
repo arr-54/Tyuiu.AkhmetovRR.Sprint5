@@ -1,39 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿using tyuiu.cources.programming.interfaces.Sprint5;
 namespace Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib
 {
-    public class DataService
+    public class DataService : ISprint5Task7V18
     {
         public string LoadDataAndSave(string path)
         {
-            string savefile = Path.GetTempFileName();
-            string strline = "";
-            using (StreamReader R = new(path))
+            string pathSave = Path.Combine(new string[] { Path.GetTempPath(), "OutPutDataFileTask7V18.txt" });
+
+
+            FileInfo fileInfo = new FileInfo(pathSave);
+            bool fileExists = fileInfo.Exists;
+
+            if (fileExists)
             {
-                string L;
-                while ((L = R.ReadLine()) != null)
-                {
-                    for (int i = 0; i < L.Length; i++)
-                    {
-                        if (L[i] == 'н')
-                        {
-                            strline = strline + "нн";
-                        }
-                        else
-                        {
-                            strline = strline + Convert.ToString(L[i]);
-                        }
-                    }
-                    File.AppendAllText(savefile, strline + Environment.NewLine);
-                    strline = "";
-                }
+                File.Delete(pathSave);
             }
-            return savefile;
+            string fileContent = File.ReadAllText(path);
+
+            string modifiedContent = fileContent.Replace("н", "нн");
+
+            File.WriteAllText(pathSave, modifiedContent);
+            return pathSave;
         }
     }
 }

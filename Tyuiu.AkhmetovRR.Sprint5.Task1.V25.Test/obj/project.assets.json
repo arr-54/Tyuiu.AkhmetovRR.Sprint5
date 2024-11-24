@@ -526,6 +526,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib.dll": {}
+        }
       }
     }
   },
@@ -1671,6 +1681,11 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib/1.0.0": {
+      "type": "project",
+      "path": "../Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib/Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib.csproj",
+      "msbuildProject": "../Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib/Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1679,6 +1694,7 @@
       "MSTest.TestFramework >= 3.1.1",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "Microsoft.Playwright.MSTest >= 1.27.1",
+      "Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib >= 1.0.0",
       "coverlet.collector >= 6.0.0"
     ]
   },
@@ -1713,7 +1729,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5\\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib\\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib.csproj": {
+              "projectPath": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5\\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib\\Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

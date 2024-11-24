@@ -1,27 +1,27 @@
+using Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib;
+
 namespace Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Test
 {
     [TestClass]
-    public class UnitTest1 : PageTest
+    public class DataServiceTest
     {
         [TestMethod]
-        public async Task HomepageHasPlaywrightInTitleAndGetStartedLinkLinkingtoTheIntroPage()
+        public void SaveToFileTextData_Test()
         {
-            await Page.GotoAsync("https://playwright.dev");
+            DataService dataService = new DataService();
+            int startValue = -5;
+            int stopValue = 5;
 
-            // Expect a title "to contain" a substring.
-            await Expect(Page).ToHaveTitleAsync(new Regex("Playwright"));
+            string filePath = dataService.SaveToFileTextData(startValue, stopValue);
 
-            // create a locator
-            var getStarted = Page.Locator("text=Get Started");
+            Assert.IsTrue(File.Exists(filePath)); 
+            string[] lines = File.ReadAllLines(filePath);
+            Assert.AreEqual(12, lines.Length);
 
-            // Expect an attribute "to be strictly equal" to the value.
-            await Expect(getStarted).ToHaveAttributeAsync("href", "/docs/intro");
-
-            // Click the get started link.
-            await getStarted.ClickAsync();
-
-            // Expects the URL to contain intro.
-            await Expect(Page).ToHaveURLAsync(new Regex(".*intro"));
+            if (File.Exists(filePath))
+            {
+                File.Delete(filePath);
+            }
         }
     }
 }

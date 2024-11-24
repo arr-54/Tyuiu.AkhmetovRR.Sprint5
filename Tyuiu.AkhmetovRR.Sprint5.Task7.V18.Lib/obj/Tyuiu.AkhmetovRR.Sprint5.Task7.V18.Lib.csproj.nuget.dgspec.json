@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5 ()\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib.csproj": {}
+    "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5 ()\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib.csproj": {
+    "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5 ()\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib.csproj",
         "projectName": "Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib",
-        "projectPath": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5 ()\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib.csproj",
+        "projectPath": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib.csproj",
         "packagesPath": "C:\\Users\\COMP GOD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5 ()\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\\obj\\",
+        "outputPath": "C:\\Users\\COMP GOD\\Desktop\\repos\\Tyuiu.AkhmetovRR.Sprint5\\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
