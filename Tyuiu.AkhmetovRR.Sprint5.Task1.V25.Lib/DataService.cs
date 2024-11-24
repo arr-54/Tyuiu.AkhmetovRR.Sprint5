@@ -26,10 +26,10 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task1.V25.Lib
                         fx = Convert.ToInt32(fx);
                     }
                     text += fx.ToString() + "\n";
-                    writer.WriteLine($"{fx.ToString("F2", CultureInfo.InvariantCulture)}");
                 }
                 text = text.Replace('.', ',');
                 Console.WriteLine(text);
+                writer.Write(text);
             }
 
             return filePath;
