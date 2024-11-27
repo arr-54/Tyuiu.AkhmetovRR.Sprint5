@@ -17,4 +17,7 @@ C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint
 C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task7.V18\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.pdb
 C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task7.V18\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.genruntimeconfig.cache
 C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task7.V18\obj\Debug\net8.0\ref\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.dll
+<<<<<<< HEAD
 C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task7.V18\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task7.V18.sourcelink.json
+=======
+>>>>>>> 390b361a3c228077aeddd9eb3df73f64138a793e

@@ -74,7 +74,11 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib
             {
                 result *= i;
             }
+<<<<<<< HEAD
             return number;
+=======
+            return result;
+>>>>>>> 390b361a3c228077aeddd9eb3df73f64138a793e
         }
     }
 }

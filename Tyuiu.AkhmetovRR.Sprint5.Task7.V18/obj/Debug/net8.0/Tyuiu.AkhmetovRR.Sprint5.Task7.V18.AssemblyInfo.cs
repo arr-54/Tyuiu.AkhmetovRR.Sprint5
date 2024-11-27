@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.AkhmetovRR.Sprint5.Task7.V18")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19033a31acc482a31229e3ffacbb8587d1291b80")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2912152fc16a87da0a056faedfe4b544aba8f327")]
+>>>>>>> 390b361a3c228077aeddd9eb3df73f64138a793e
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.AkhmetovRR.Sprint5.Task7.V18")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.AkhmetovRR.Sprint5.Task7.V18")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
