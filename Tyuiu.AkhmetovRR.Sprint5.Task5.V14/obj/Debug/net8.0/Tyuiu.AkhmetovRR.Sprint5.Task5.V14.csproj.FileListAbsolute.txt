@@ -1,0 +1,40 @@
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.exe
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.deps.json
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.runtimeconfig.json
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.pdb
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\tyuiu.cources.programming.interfaces.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib.pdb
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.csproj.AssemblyReference.cache
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.AssemblyInfoInputs.cache
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.AssemblyInfo.cs
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.csproj.CoreCompileInputs.cache
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.sourcelink.json
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.Ak.25E29346.Up2Date
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\refint\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.pdb
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.genruntimeconfig.cache
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5 ()\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\ref\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.exe
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.deps.json
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.runtimeconfig.json
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.pdb
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\tyuiu.cources.programming.interfaces.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\bin\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib.pdb
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.csproj.AssemblyReference.cache
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.AssemblyInfoInputs.cache
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.AssemblyInfo.cs
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.csproj.CoreCompileInputs.cache
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.Ak.25E29346.Up2Date
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\refint\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.pdb
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.genruntimeconfig.cache
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\ref\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.dll
+C:\Users\COMP GOD\Desktop\repos\Tyuiu.AkhmetovRR.Sprint5\Tyuiu.AkhmetovRR.Sprint5.Task5.V14\obj\Debug\net8.0\Tyuiu.AkhmetovRR.Sprint5.Task5.V14.sourcelink.json
