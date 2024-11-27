@@ -63,18 +63,5 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib
             }
             return num;
         }
-        public BigInteger CalculateFactorial(int number)
-        {
-            if (number < 0)
-            {
-                throw new ArgumentException("Ошибка");
-            }
-            BigInteger result = 1;
-            for (int i = 2; i <= number; i++) 
-            {
-                result *= i;
-            }
-            return number;
-        }
     }
 }

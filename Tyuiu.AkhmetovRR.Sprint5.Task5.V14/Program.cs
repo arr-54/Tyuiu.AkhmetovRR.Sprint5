@@ -34,7 +34,6 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14
             Console.WriteLine("********************************************************************************");
             double LoadNumber = ds.LoadFromDataFile(path);
             int number = (int)LoadNumber;
-            BigInteger factorial = ds.CalculateFactorial(number);
             Console.WriteLine(number);
             Console.ReadKey();
         }
