@@ -32,9 +32,8 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14
             Console.WriteLine("********************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                   *");
             Console.WriteLine("********************************************************************************");
-            double LoadNumber = ds.LoadFromDataFile(path);
-            int number = (int)LoadNumber;
-            Console.WriteLine(number);
+            double result = ds.LoadFromDataFile(path);
+            Console.WriteLine(result);
             Console.ReadKey();
         }
     }

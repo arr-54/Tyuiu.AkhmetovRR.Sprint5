@@ -5,6 +5,28 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib
 {
     public class DataService : ISprint5Task5V14
     {
+        public double LoadFromDataFile (string path)
+        {
+            List<double> data = ReadFile(path);
+            int? max3 = FindLoad(data);
+            if (max3 != null)
+            {
+                double factorial = CalculateFactorial(max3.Value);
+                
+                if (factorial <= double.MaxValue)
+                {
+                    return factorial;
+                }
+                else
+                {
+                    throw new Exception("факториал слишком велик");
+                }
+            }
+            else
+            {
+                throw new Exception("в файле не найдено целых чисел");
+            }
+        }
         public int? FindLoad(List<double> numbers)
         {
             int? num = null;
@@ -24,20 +46,6 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib
 
             }
             return num;
-        }
-        public double LoadFromDataFile(string path)
-        {
-            List<double> data = ReadFile(path);
-            int? max3 = FindLoad(data);
-            if (max3 != null)
-            {
-                Console.WriteLine(max3.Value);
-                return max3.Value;
-            }
-            else
-            {
-                throw new Exception("в файле не найдено целых чисел");
-            }
         }
         public List<double> ReadFile(string path)
         {
@@ -62,8 +70,20 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib
             {
                 Console.WriteLine("Ошибка чтения файла: " + e.Message);
             }
-            Console.WriteLine(numbers);
             return numbers;
+        }
+        public double CalculateFactorial(int number)
+        {
+            if (number < 0)
+            {
+                throw new ArgumentException("Ошибка");
+            }
+            double result = 1;
+            for (int i = 2; i <= number; i++)
+            {
+                result *= i;
+            }
+            return result;
         }
     }
 }
