@@ -5,12 +5,33 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib
 {
     public class DataService : ISprint5Task5V14
     {
+        public int? FindLoad(List<double> numbers)
+        {
+            int? num = null;
+            foreach (var number in numbers)
+            {
+                if (number % 1 == 0)
+                {
+                    int intnum = (int)number;
+                    if (number % 3 == 0)
+                    {
+                        if (num == null || intnum > num)
+                        {
+                            num = intnum;
+                        }
+                    }
+                }
+
+            }
+            return num;
+        }
         public double LoadFromDataFile(string path)
         {
             List<double> data = ReadFile(path);
             int? max3 = FindLoad(data);
             if (max3 != null)
             {
+                Console.WriteLine(max3.Value);
                 return max3.Value;
             }
             else
@@ -41,27 +62,8 @@ namespace Tyuiu.AkhmetovRR.Sprint5.Task5.V14.Lib
             {
                 Console.WriteLine("Ошибка чтения файла: " + e.Message);
             }
+            Console.WriteLine(numbers);
             return numbers;
-        }
-        public int? FindLoad(List<double> numbers)
-        {
-            int? num = null;
-            foreach (var number in numbers)
-            {
-                if (number % 1 == 0)
-                {
-                    int intnum = (int)number;
-                    if (number % 3 == 0)
-                    {
-                        if (num == null || intnum > num)
-                        {
-                            num = intnum;
-                        }
-                    }
-                }
-
-            }
-            return num;
         }
     }
 }
